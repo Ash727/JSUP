@@ -1,0 +1,26 @@
+
+.root {
+ -fx-font-family:Papyrus;
+ -fx-alighnment: center;
+  -fx-hgap-size:80px;
+  -fx-vgap: 10;
+}
+.Title {
+ -fx-font-size:80px;
+ -fx-fill: Aqua
+ }
+
+.text-field {
+  -fx-font-family: Helvetica;
+}
+
+
+/*#Name:hover {*/
+    /*-fx-background-color: green;*/
+    /*-fx-font-family:Impact*/
+/*}*/
+/*.Activate {*/
+    /*-fx-translate-x: 20px;*/
+    /*-fx-background-color: green;*/
+    /*-fx-font-family:Impact*/
+/*}*/
